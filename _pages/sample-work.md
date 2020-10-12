@@ -2,55 +2,37 @@
 layout: page
 title: Project
 permalink: work/sample-work/
-subtitle: Sample work
+subtitle: <a href="https://truestory.skoltech.ru/reset"> https://truestory.skoltech.ru/reset</a>
 ---
+## Our RESET-team became a Champion of National contest &#129351; in Russia and become a vice-champion in World Final &#129352; in La-Rouche-sur-Yon, France!!!
 
-## Liber orbes sternentemque nunc mortalia rotae supplex
+<div class="grid">
+<div class="unit whole news-item">
+<div class="unit half news-item">
+![DDS](/assets/img/projects/Eurobot_image/team_2_rus.jpg)
+</div>
+<div class="unit half news-item">
+![Defence](/assets/img/projects/Eurobot_image/team_1_franc.jpg)
+</div>
 
-Lorem **markdownum fugiens** lanigerosve [genus doctis
-sustinet](http://violenta.com/contraria) flamma tecti, perdiderat. Alcides et
-manu! Aquarum exclamat adulter tuos; et fuerit has levi gurgite movit, candentia
-cava pharetramque aures Cythereiadasque turbant utinam erat.
+</div>
+  <div class="line"></div>
+  <h3 align="center">My contribtution</h3>
+  <p> I was one of the member of electronics team. I has developed from scratch the control and power supply system of the pneumatic manipulator of a secondary autonomous mobile robot. Additionally, I developed a printed circuit board (PCB) for connecting STM32f4 and STM32f0 microcontrollers and peripherals: maxon motors, dynamixels, proximity sensors and a stepper. All code is available here: <a href="https://github.com/Antonskoltech/eurobot2019"> https://github.com/Antonskoltech/eurobot2019</a>.
 
-- Prementem passibus ab docuisse laborem recingitur videt
-- Debilis velle
-- Modo per pignora coiere et nec comitum
-- Nymphe veteris suscitat colonos
 
-Dextram post solido feres, Leuconoe! Est tu est solito cauda, unum quae
-multifori, herbas. Albas vestis cognoscit in longi umero effugere quam constitit
-Delo.
 
-    var impact = boxPacket;
-    mainframe_storage = digital_key_winsock;
-    if (scanBoot) {
-        mapIt(lagPumProgramming, 4);
-        technologyAssociationFile = -4;
-    }
-    leak_captcha_disk.scroll = e(denial_bridge_peripheral(root(server_c, -4),
-            raid_keywords + mnemonicSystem, sampling_offline_switch),
-            hexadecimal);
-    if (3 - rawPciFat - sanCore / 1 * art_dpi_title + losslessProcess) {
-        processor = 4 + bsod_led;
-        responsiveMamp = eJfs(typeface_name);
-    }
+<br>
+    There is a good example of the match against Switzerland team in France. You can see how our robots move. We are on the right side.
+</p>
 
-## Haec damnare consulat
+<div class="grid">
+<div class="unit half news-item">
+![robot](/assets/img/projects/Eurobot_image/robots.jpg)
+</div>
+<div class="unit half news-item">
+![frame](/assets/img/projects/Eurobot_image/eurobot_main.jpg)
+</div>
 
-Mea speciem facta postquam quae ab catulo, bracchia nepotis: est. Suae **posset
-cingebant patris**, et Amenanus est omnis forum fulvum despectus secum.
+<a href="https://www.youtube.com/watch?v=KmTBy0Jkyjc&feature=emb_title#t=01h03m19s"> If you’re interested in  seeing of one of the matched in France against Switzerland team. We are on the right side. <i class="fa fa-youtube-play" aria-hidden="true"></i></a>.
 
-1. Sic Aiax et ab vota vultum
-2. Equo nec narratur
-3. Est si exstabant ratos mea horret fluit
-4. Dextra fato tremor tendite melioris in tibi
-5. Oresteae quae
-
-Creatis imago; unda quin, *venerisque puppe* tabuerit indotata piceumque siccis
-spatiosumque iuvenes? Pascere quid quater prece et Serpens ibi nam
-[partes](http://si-super.org/): cupido insula protinus. Non [aquarum nec
-esset](http://fines.org/fit-sociare.html) postquam partimque quondam esse, aura.
-
-Habendum repperit quod; aera nota sed. Ora quae diu potuere sed multi pectore:
-quo te induerat ab haut ope. In nemus ipse cornua quoque, incandescit fecere
-sequens mundo mento erravit nunc simul villis erat ac

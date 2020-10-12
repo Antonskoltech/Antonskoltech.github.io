@@ -5,7 +5,11 @@
   <div class="site-links">
     <div class="site-contact">
       <ul>
-        <li><a target="_blank" rel="external" href="https://scholar.google.ca/citations?user=kvnYd8sAAAAJ"><i class="fa fa-flask" aria-hidden="true"></i>
+        {% if site.email %}
+        <li><a href="mailto:{{ site.email }}">Contact</a></li>
+        {% endif %}
+
+        <li><a target="_blank" rel="external" href="https://scholar.google.com/citations?user=8gkIwBMAAAAJ&hl=en"><i class="fa fa-flask" aria-hidden="true"></i>
            Google Scholar</a></li>
           
         {% if site.github_username %}

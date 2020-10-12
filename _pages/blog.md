@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prose and Poetry
-subtitle: The blog of Valentin Peretroukhin
+subtitle: The blog of Anton Egorov
 permalink: /blog/
 ---
 
