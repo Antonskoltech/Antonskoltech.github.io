@@ -44,7 +44,9 @@ Gear for Multicopters* ([Official Page](https://ieeexplore.ieee.org/document/916
 
 <h3> <i class="fa fa-id-card"></i> Awards & Honors </h3>
 
-Skoltech’s academic mobility (CMU, USA) grant for Master's students
+<a href="https://www.skoltech.ru/en/education/academic-mobility/" >Skoltech’s academic mobility<a> (CMU, USA) grant for Master's students in 2019-2020
+
+<a href="https://truestory.skoltech.ru/reset" > 2nd place in the World robotic competitions "Eurobot OPEN" Finals</a> (France,2019)
 
 <a href="https://www.helmholtz-berlin.de/jobskarriere/sommerstudenten/index_en.html" > HZB 2018 Undergraduate Fellowship<a> (Berlin, Germany)
 </div>
@@ -57,24 +59,29 @@ Skoltech’s academic mobility (CMU, USA) grant for Master's students
   <div class="grid">
       <div class="unit half">
         <div class="project">
-          <h4 class="project-title"><a> Viewpoint-invariant 3D Place recognition with SphereVLAD</a></h4>
+          <h4 class="project-title"> <a href="https://www.youtube.com/watch?v=MB3CF2yy2EU">3D Place recognition with SeqSphereVLAD</a></h4>
           <img src='/assets/img/projects/spherevlad_framework.jpg' class='project-img'>
-          <p>SeqSphereVLAD is a deep learing approach to achieving accurate, robust 3D Place recognition (use to build large scale 3D map) using point-clouds (3D Lidar data) based on a viewpoint-invariant descriptor.  This work was accepted for publication in the  <a href="https://www.iros2020.org/index.html"> International Conference on Intelligent Robots and Systems (IROS2020), Las Vegas, NV, USA, 2020
+          <p>SeqSphereVLAD is a deep learing approach to achieving accurate, robust 3D Place recognition (use to build large scale 3D map) using point-clouds (3D Lidar data) based on a viewpoint-invariant descriptor.  This work was accepted for publication in the  <a href="https://www.iros2020.org/index.html"> International Conference on Intelligent Robots and Systems (IROS2020)</a>, Las Vegas, NV, USA, 2020
         </div>
       </div>
 
   <div class="unit half">
     <div class="project">
-      <h4 class="project-title"><a> LocoGear: Locomotion Analysis for Multicopters</a></h4>
+      <h4 class="project-title"><a href="https://ieeexplore.ieee.org/document/9163320">LocoGear: Locomotion Analysis</a></h4>
       <img src='/assets/img/papers/geer_fig1.png' class='project-img'>
-      <p> LocoGear, a novel algorithm for locomotion of UAV equipped with the robotic landing gear. It's been  <a href="https://ieeexplore.ieee.org/document/9163320"><i class="fa fa-file-text" aria-hidden="true"></i> published</a> in <a href="https://ieee-jmass.org/"> IEEE Journal on Miniaturization for Air and Space Systems (J-MASS 2020).</a>.</p>
+      <p> LocoGear, a novel algorithm for locomotion of UAV equipped with the robotic landing gear. It's been  <a href="https://ieeexplore.ieee.org/document/9163320"><i class="fa fa-file-text" aria-hidden="true"></i> published</a> in <a href="https://ieee-jmass.org/"> IEEE Journal on Miniaturization for Air and Space Systems (J-MASS 2020).</a></p>
+      </div>
   </div>
   </div><!-- grid -->
+
+
+
+</div>
 {:/}
 
 ---
-## Events
 
+## Events
 
 <div class="grid">
 
@@ -113,9 +120,7 @@ Skoltech’s academic mobility (CMU, USA) grant for Master's students
 ![Final Approach](/assets/img/events/1.jpg)
 <strong> August, 2018 </strong> - I passed my poster presentation as my summer research project in Helmholtz-Zentrum Berlin für Materialien und Energie (HZB) in Berlin, Germany. 
 </div>
-
-
 </div>
+</div><!-- grid -->
 
----
 
