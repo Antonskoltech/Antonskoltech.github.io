@@ -46,7 +46,7 @@ Gear for Multicopters* ([Official Page](https://ieeexplore.ieee.org/document/916
 
 Skoltech’s academic mobility (CMU, USA) grant for Master's students
 
-<a href="http://www.eurobot.org/" > HZB 2018 Undergraduate Fellowship<a> (Berlin, Germany)
+<a href="https://www.helmholtz-berlin.de/jobskarriere/sommerstudenten/index_en.html" > HZB 2018 Undergraduate Fellowship<a> (Berlin, Germany)
 </div>
 </div>
 
