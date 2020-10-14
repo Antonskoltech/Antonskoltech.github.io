@@ -60,7 +60,7 @@ Recently...
         <div class="project">
           <h4 class="project-title"> <a href="https://www.youtube.com/watch?v=MB3CF2yy2EU">3D Place recognition with SeqSphereVLAD</a></h4>
           <img src='/assets/img/projects/spherevlad_framework.jpg' class='project-img'>
-          <p>SeqSphereVLAD is a deep learing approach to achieving accurate and robust 3D Place recognition (used to build large scale 3D maps) using point-clouds (3D LiDAR data) based on a viewpoint-invariant descriptor. This work has been accepted for publication and presentation in the <a href="https://www.iros2020.org/index.html"> International Conference on Intelligent Robots and Systems (IROS 2020)</a>, Las Vegas, NV.
+          <p>SeqSphereVLAD is a deep learing approach to achieving accurate and robust 3D Place recognition (used to build large scale 3D maps) using point-clouds (3D LiDAR data) based on a viewpoint-invariant descriptor. This work has been accepted for publication and will be presented in the <a href="https://www.iros2020.org/index.html"> International Conference on Intelligent Robots and Systems (IROS 2020)</a>, Las Vegas, NV.
         </div>
       </div>
 
@@ -68,7 +68,7 @@ Recently...
     <div class="project">
       <h4 class="project-title"><a href="https://ieeexplore.ieee.org/document/9163320">LocoGear: Locomotion Analysis</a></h4>
       <img src='/assets/img/papers/geer_fig1.png' class='project-img'>
-      <p> LocoGear, a novel algorithm for locomotion with UAV equipped robotic landing gear. Research has been published <a href="https://ieeexplore.ieee.org/document/9163320"><i class="fa fa-file-text" aria-hidden="true"></i> published</a> in <a href="https://ieee-jmass.org/"> IEEE Journal on Miniaturization for Air and Space Systems (J-MASS 2020).</a></p>
+      <p> LocoGear, a novel algorithm for locomotion with UAV equipped robotic landing gear. Research has been <a href="https://ieeexplore.ieee.org/document/9163320"><i class="fa fa-file-text" aria-hidden="true"></i> published</a> in <a href="https://ieee-jmass.org/"> IEEE Journal on Miniaturization for Air and Space Systems (J-MASS 2020).</a></p>
       </div>
   </div>
   </div><!-- grid -->
@@ -85,7 +85,7 @@ Recently...
 <div class="grid">
 
 <div class="unit whole news-item">
-<strong> March, 2020 </strong> - After six-months research work in Robotics Institute at Carnegie Mellon University.
+<strong> March, 2020 </strong> - After six-month research work in Robotics Institute at Carnegie Mellon University.
 </div>
 
 <div class="unit whole news-item">
