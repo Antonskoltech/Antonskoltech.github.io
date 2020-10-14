@@ -109,7 +109,7 @@ Recently...
 </div>
 
 <div class="unit whole news-item">
-<strong> January, 2019 </strong> - Boeing sponsored Pilot School in Moscow, Russia (independent studies period at Skoltech University). For several weeks, I completed dozens of hours behind a flight simulator, in hopes of becoming among the high-scoring few that can finish the term and experience behind controles of a real flight deck.
+<strong> January, 2019 </strong> - Boeing sponsored Pilot School in Moscow, Russia (independent studies period at Skoltech University). For several weeks, I completed dozens of hours behind a flight simulator, in hopes of becoming among the high-scoring few that can finish the term and get a chance to fly behind controls of a real flight deck.
 </div>
 
 <div class="unit whole news-item">
@@ -122,7 +122,7 @@ Recently...
 
 </div>
 <div class="unit whole news-item">
-<strong> August, 2018 </strong> - I passed my poster presentation as my summer research project in Helmholtz-Zentrum Berlin für Materialien und Energie (HZB) in Berlin, Germany. 
+<strong> August, 2018 </strong> - As my summer research project I successfully presented my summer research project in Helmholtz-Zentrum Berlin für Materialien und Energie (HZB) in Berlin, Germany. I also had a chance to meet the Chancellor of Germany Angela Dorothea Merkel. 
 </div>
 
 <div class="unit whole news-item">
