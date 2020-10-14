@@ -34,7 +34,7 @@ My Master's research work was based in the [Biorobotics lab](http://biorobotics.
 
 Recently... 
 * Co-authored work titled *SeqSphereVLAD: Sequence Matching Enhanced Orientation-Invariant Place Recognition*. Research was accepted for publication and will be presented at IROS 2020<!-- ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), --> ([<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=MB3CF2yy2EU)).
-* Co-authored work titled *LocoGear: Locomotion Analysis of Robotic Landing Gear for Multicopters*. Research was published in J-MASS-journal paper ([Official Page](https://ieeexplore.ieee.org/document/9163320),[<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=Ug_XYDpnKl0)).
+* Co-authored work titled *LocoGear: Locomotion Analysis of Robotic Landing Gear for Multicopters*. Research has been published in J-MASS-journal paper ([Official Page](https://ieeexplore.ieee.org/document/9163320),[<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=Ug_XYDpnKl0)).
 
 </div>
 
@@ -60,7 +60,7 @@ Recently...
         <div class="project">
           <h4 class="project-title"> <a href="https://www.youtube.com/watch?v=MB3CF2yy2EU">3D Place recognition with SeqSphereVLAD</a></h4>
           <img src='/assets/img/projects/spherevlad_framework.jpg' class='project-img'>
-          <p>SeqSphereVLAD is a deep learing approach to achieving accurate, robust 3D Place recognition (use to build large scale 3D map) using point-clouds (3D Lidar data) based on a viewpoint-invariant descriptor.  This work was accepted for publication in the  <a href="https://www.iros2020.org/index.html"> International Conference on Intelligent Robots and Systems (IROS2020)</a>, Las Vegas, NV, USA, 2020
+          <p>SeqSphereVLAD is a deep learing approach to achieving accurate and robust 3D Place recognition (used to build large scale 3D maps) using point-clouds (3D LiDAR data) based on a viewpoint-invariant descriptor. This work has been accepted for publication and presentation in the <a href="https://www.iros2020.org/index.html"> International Conference on Intelligent Robots and Systems (IROS 2020)</a>, Las Vegas, NV.
         </div>
       </div>
 
@@ -68,7 +68,7 @@ Recently...
     <div class="project">
       <h4 class="project-title"><a href="https://ieeexplore.ieee.org/document/9163320">LocoGear: Locomotion Analysis</a></h4>
       <img src='/assets/img/papers/geer_fig1.png' class='project-img'>
-      <p> LocoGear, a novel algorithm for locomotion of UAV equipped with the robotic landing gear. It's been  <a href="https://ieeexplore.ieee.org/document/9163320"><i class="fa fa-file-text" aria-hidden="true"></i> published</a> in <a href="https://ieee-jmass.org/"> IEEE Journal on Miniaturization for Air and Space Systems (J-MASS 2020).</a></p>
+      <p> LocoGear, a novel algorithm for locomotion with UAV equipped robotic landing gear. Research has been published <a href="https://ieeexplore.ieee.org/document/9163320"><i class="fa fa-file-text" aria-hidden="true"></i> published</a> in <a href="https://ieee-jmass.org/"> IEEE Journal on Miniaturization for Air and Space Systems (J-MASS 2020).</a></p>
       </div>
   </div>
   </div><!-- grid -->
