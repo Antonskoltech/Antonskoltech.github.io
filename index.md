@@ -14,7 +14,7 @@ subtitle: Love Robots
 <div class="lead lead-about">
 Hello! My name is Anton. I'm a researcher in autonomous robotics with a particular interest in the fusion of learned and classical techniques for robust perception.
 
-I am currently a research assistant at Autonomous Transportation Systems Lab](https://robotics.innopolis.university/en/labs/laboratoriya-avtonomnyh-transportnyh-sistem/) of [Innopolis University](https://innopolis.university/en/) [ with [*Prof. Alexandr Klimchik*](https://scholar.google.fr/citations?user=KLpMBj0AAAAJ&hl=en). I received my Master of Science in Space and Engineering Systems at [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/) in June 2020 - including a six-month research visit at the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
+I am currently a research assistant at [Autonomous Transportation Systems Lab](https://robotics.innopolis.university/en/labs/laboratoriya-avtonomnyh-transportnyh-sistem/) of [Innopolis University](https://innopolis.university/en/) [ with [*Prof. Alexandr Klimchik*](https://scholar.google.fr/citations?user=KLpMBj0AAAAJ&hl=en). I received my Master of Science in Space and Engineering Systems at [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/) in June 2020 - including a six-month research visit at the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
 </div>
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
