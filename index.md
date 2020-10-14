@@ -14,12 +14,12 @@ subtitle: Love Robots
 <div class="lead lead-about">
 Hello! My name is Anton. I'm a researcher in autonomous robotics with a particular interest in the fusion of learned and classical techniques for robust perception.
 
-I am currently a research assistant in the [Autonomous Transportation Systems Group](https://robotics.innopolis.university/en/labs/laboratoriya-avtonomnyh-transportnyh-sistem/) with [*Prof. Alexandr Klimchik*](https://scholar.google.fr/citations?user=KLpMBj0AAAAJ&hl=en) at [Innopolis University](https://innopolis.university/en/). I received my Master's from [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/) in 2020 with a six-months research visit at the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
+I am currently a research assistant in the [Autonomous Transportation Systems Group](https://robotics.innopolis.university/en/labs/laboratoriya-avtonomnyh-transportnyh-sistem/) with [*Prof. Alexandr Klimchik*](https://scholar.google.fr/citations?user=KLpMBj0AAAAJ&hl=en) at [Innopolis University](https://innopolis.university/en/). I received my Master's from [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/) in 2020 with a six-month research visit at the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
 </div>
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
 
-I performed my Master's research work in the [Biorobotics lab](http://biorobotics.ri.cmu.edu/index.php) (Robotics Institute at Carnegie Mellon University) under the supervision of [*Prof. Howie Choset*](https://scholar.google.com/citations?user=4fvo61oAAAAJ&hl=en). My Master's research work related to the development of a new 3D Place Recognition framework in 3D LIDAR-based SLAM algorithm, which can achive orientation-invarian 3D place recognition
+I performed my Master's research work in the [Biorobotics lab](http://biorobotics.ri.cmu.edu/index.php) (Robotics Institute at Carnegie Mellon University) under the supervision of [*Prof. Howie Choset*](https://scholar.google.com/citations?user=4fvo61oAAAAJ&hl=en). My Master's research work related to the development of a new 3D Place Recognition framework in 3D LIDAR-based SLAM algorithm, which can achieve orientation-invariant 3D place recognition
 </div>
 </div>
 </div>
@@ -112,7 +112,7 @@ Gear for Multicopters* ([Official Page](https://ieeexplore.ieee.org/document/916
 <div class="unit half news-item">
 ![ICRA Debates 1](/assets/img/events/2.jpg)
 ![ICRA Debates](/assets/img/events/7.jpg)
-<strong> January, 2019 </strong> - Pilot School from Boeing center in Russia (as the Independent Studies Period at my Skoltech university): taking to the skies. Several weeks I rack up dozens of hours behind a flight simulator in hopes of being among the high-scoring few who will end the term behind a real flight deck, preparing for takeoff.
+<strong> January, 2019 </strong> - Pilot School from Boeing center in Russia (as the Independent Studies Period at my Skoltech university): taking to the skies. For several weeks I racked up dozens of hours behind a flight simulator, in hopes rising among the high-scoring few that would finish the term behind a real flight deck, preparing for takeoff.
 </div>
 
 <div class="unit half news-item">
