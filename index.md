@@ -85,7 +85,7 @@ Recently...
 <div class="grid">
 
 <div class="unit whole news-item">
-<strong> March, 2020 </strong> - After six-month research work in Robotics Institute at Carnegie Mellon University.
+<strong> March, 2020 </strong> - After six-month research work at the Robotics Institute of Carnegie Mellon University.
 </div>
 
 <div class="unit whole news-item">
@@ -96,7 +96,7 @@ Recently...
 ![Defence](/assets/img/events/4.jpg)
 </div>
 <div class="unit whole news-item">
-<strong> August, 2019 </strong> - I moved to Pittsburgh! Excited to work on my research projects in Robotics Institute at CMU under Howie Choset's supervision
+<strong> August, 2019 </strong> - I moved to Pittsburgh, PA! Very excited to work on my research projects at the Robotics Institute of CMU under supervision of Howie Choset
 </div>
 
 <div class="unit whole news-item">
@@ -108,16 +108,29 @@ Recently...
 </div>
 </div>
 
-<div class="unit half news-item">
-![ICRA Debates 1](/assets/img/events/2.jpg)
-![ICRA Debates](/assets/img/events/7.jpg)
+<div class="unit whole news-item">
 <strong> January, 2019 </strong> - Pilot School from Boeing center in Russia (as the Independent Studies Period at my Skoltech university): taking to the skies. For several weeks I racked up dozens of hours behind a flight simulator, in hopes rising among the high-scoring few that would finish the term behind a real flight deck, preparing for takeoff.
 </div>
 
+<div class="unit whole news-item">
 <div class="unit half news-item">
-![Post-Solo Shower](/assets/img/events/0.jpg)
-![Final Approach](/assets/img/events/1.jpg)
+![DDS](/assets/img/events/2.jpg)
+</div>
+<div class="unit half news-item">
+![Defence](/assets/img/events/7.jpg)
+</div>
+
+</div>
+<div class="unit whole news-item">
 <strong> August, 2018 </strong> - I passed my poster presentation as my summer research project in Helmholtz-Zentrum Berlin für Materialien und Energie (HZB) in Berlin, Germany. 
+</div>
+
+<div class="unit whole news-item">
+<div class="unit half news-item">
+![DDS](/assets/img/events/0.jpg)
+</div>
+<div class="unit half news-item">
+![Defence](/assets/img/events/1.jpg)
 </div>
 </div>
 </div><!-- grid -->
