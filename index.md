@@ -33,9 +33,8 @@ My Master's research work was based in the [Biorobotics lab](http://biorobotics.
 * the web chair for the upcoming [Conference on Robot Learning (CoRL 2020)](https://www.robot-learning.org/).  -->
 
 Recently... 
-* Co-autored work titled *SeqSphereVLAD: Sequence Matching Enhanced Orientation-invariant Place Recognition* was accepted for publication and will be presented in IROS 2020<!-- ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), --> [<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=MB3CF2yy2EU)
-* Co-autored of J-MASS-journal paper-work titled *LocoGear: Locomotion Analysis of Robotic Landing
-Gear for Multicopters* ([Official Page](https://ieeexplore.ieee.org/document/9163320),[<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=Ug_XYDpnKl0))
+* Co-authored work titled *SeqSphereVLAD: Sequence Matching Enhanced Orientation-Invariant Place Recognition*. Research was accepted for publication and will be presented at IROS 2020<!-- ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), --> [<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=MB3CF2yy2EU)
+* Co-authored work titled *LocoGear: Locomotion Analysis of Robotic Landing Gear for Multicopters* ([Official Page](https://ieeexplore.ieee.org/document/9163320),[<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=Ug_XYDpnKl0)). Research was published in J-MASS-journal paper
 
 </div>
 
