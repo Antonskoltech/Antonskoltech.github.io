@@ -127,7 +127,7 @@ Recently...
 
 <div class="unit whole news-item">
 <div class="unit half news-item">
-![DDS](/assets/img/events/0.jpg)
+![DDS](/assets/img/events/28.jpg)
 </div>
 <div class="unit half news-item">
 ![Defence](/assets/img/events/1.jpg)
