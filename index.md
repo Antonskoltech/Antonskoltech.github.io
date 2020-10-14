@@ -109,7 +109,7 @@ Recently...
 </div>
 
 <div class="unit whole news-item">
-<strong> January, 2019 </strong> - Pilot School from Boeing center in Russia (as the Independent Studies Period at my Skoltech university): taking to the skies. For several weeks I racked up dozens of hours behind a flight simulator, in hopes rising among the high-scoring few that would finish the term behind a real flight deck, preparing for takeoff.
+<strong> January, 2019 </strong> - Boeing sponsored Pilot School in Moscow, Russia (independent studies period at Skoltech University). For several weeks, I completed dozens of hours behind a flight simulator, in hopes of becoming among the high-scoring few that can finish the term and experience behind controles of a real flight deck.
 </div>
 
 <div class="unit whole news-item">
