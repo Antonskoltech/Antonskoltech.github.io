@@ -14,7 +14,7 @@ subtitle: Love Robots
 <div class="lead lead-about">
 Hello! My name is Anton. I'm a researcher in autonomous robotics with a particular interest in the fusion of learned and classical techniques for robust perception.
 
-I am currently a research assistant at the[Innopolis University](https://innopolis.university/en/) [Autonomous Transportation Systems Lab](https://robotics.innopolis.university/en/labs/laboratoriya-avtonomnyh-transportnyh-sistem/) with [*Prof. Alexandr Klimchik*](https://scholar.google.fr/citations?user=KLpMBj0AAAAJ&hl=en). I received my Master of Science in Space and Engineering Systems at [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/) in June 2020 including a six-month research visit at the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
+I am currently a research assistant at Autonomous Transportation Systems Lab](https://robotics.innopolis.university/en/labs/laboratoriya-avtonomnyh-transportnyh-sistem/) of [Innopolis University](https://innopolis.university/en/) [ with [*Prof. Alexandr Klimchik*](https://scholar.google.fr/citations?user=KLpMBj0AAAAJ&hl=en). I received my Master of Science in Space and Engineering Systems at [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/) in June 2020 - including a six-month research visit at the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
 </div>
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
@@ -33,8 +33,8 @@ My Master's research work was based in the [Biorobotics lab](http://biorobotics.
 * the web chair for the upcoming [Conference on Robot Learning (CoRL 2020)](https://www.robot-learning.org/).  -->
 
 Recently... 
-* Co-authored work titled *SeqSphereVLAD: Sequence Matching Enhanced Orientation-Invariant Place Recognition*. Research was accepted for publication and will be presented at IROS 2020<!-- ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), --> [<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=MB3CF2yy2EU)
-* Co-authored work titled *LocoGear: Locomotion Analysis of Robotic Landing Gear for Multicopters* ([Official Page](https://ieeexplore.ieee.org/document/9163320),[<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=Ug_XYDpnKl0)). Research was published in J-MASS-journal paper
+* Co-authored work titled *SeqSphereVLAD: Sequence Matching Enhanced Orientation-Invariant Place Recognition*. Research was accepted for publication and will be presented at IROS 2020<!-- ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), --> ([<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=MB3CF2yy2EU)).
+* Co-authored work titled *LocoGear: Locomotion Analysis of Robotic Landing Gear for Multicopters*. Research was published in J-MASS-journal paper ([Official Page](https://ieeexplore.ieee.org/document/9163320),[<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=Ug_XYDpnKl0)).
 
 </div>
 
@@ -43,9 +43,9 @@ Recently...
 
 <h3> <i class="fa fa-id-card"></i> Awards & Honors </h3>
 
-<a href="https://www.skoltech.ru/en/education/academic-mobility/" >Skoltech’s academic mobility<a> (CMU, USA) grant for Master's students in 2019-2020
+<a href="https://www.skoltech.ru/en/education/academic-mobility/" >Skoltech’s academic mobility<a> (CMU, USA) grant for Master's students (2019-2020)
 
-<a href="https://truestory.skoltech.ru/reset" > 2nd place in the World robotic competitions "Eurobot OPEN" Finals</a> (France,2019)
+<a href="https://truestory.skoltech.ru/reset" > 2nd place at the finals of international robotics competition "Eurobot OPEN" </a> (France, 2019)
 
 <a href="https://www.helmholtz-berlin.de/jobskarriere/sommerstudenten/index_en.html" > HZB 2018 Undergraduate Fellowship<a> (Berlin, Germany)
 </div>
