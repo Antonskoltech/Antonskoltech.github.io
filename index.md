@@ -19,7 +19,7 @@ I am currently a research assistant at the[Innopolis University](https://innopol
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
 
-My Master's research work was based in the [Biorobotics lab](http://biorobotics.ri.cmu.edu/index.php) at the Robotics Institute of Carnegie Mellon University) under supervision of [*Prof. Howie Choset*](https://scholar.google.com/citations?user=4fvo61oAAAAJ&hl=en). Performed research work related to the development of a new 3D Place Recognition framework in 3D LiDAR-based SLAM algorithm, which can achieve orientation-invariant 3D place recognition
+My Master's research work was based in the [Biorobotics lab](http://biorobotics.ri.cmu.edu/index.php) at the Robotics Institute of Carnegie Mellon University under supervision of [*Prof. Howie Choset*](https://scholar.google.com/citations?user=4fvo61oAAAAJ&hl=en). Performed research work related to the development of a new 3D Place Recognition framework in 3D LiDAR-based SLAM algorithm with an orientation-invariant property.
 </div>
 </div>
 </div>
@@ -33,8 +33,8 @@ My Master's research work was based in the [Biorobotics lab](http://biorobotics.
 * the web chair for the upcoming [Conference on Robot Learning (CoRL 2020)](https://www.robot-learning.org/).  -->
 
 Recently... 
-* I am a co-autor of IROS 2020 work titled *SeqSphereVLAD: Sequence Matching Enhanced Orientation-invariant Place Recognition* was accepted for publication;<!-- ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), --> [<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=MB3CF2yy2EU))
-* I am a co-autor of J-MASS-journal paper-work titled *LocoGear: Locomotion Analysis of Robotic Landing
+* Co-autored work titled *SeqSphereVLAD: Sequence Matching Enhanced Orientation-invariant Place Recognition* was accepted for publication and will be presented in IROS 2020<!-- ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), --> [<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=MB3CF2yy2EU)
+* Co-autored of J-MASS-journal paper-work titled *LocoGear: Locomotion Analysis of Robotic Landing
 Gear for Multicopters* ([Official Page](https://ieeexplore.ieee.org/document/9163320),[<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=Ug_XYDpnKl0))
 
 </div>
