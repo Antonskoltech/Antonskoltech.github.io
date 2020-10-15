@@ -45,7 +45,7 @@ Recently...
 
 <a href="https://www.skoltech.ru/en/education/academic-mobility/" >Skoltech’s academic mobility<a> (CMU, USA) grant for Master's students (2019-2020)
 
-<a href="https://truestory.skoltech.ru/reset" > 2nd place at the world finals robotics competition "Eurobot OPEN" </a> (France, 2019)
+<a href="https://www.eurobot.org/eurobot/eurobot-2019/eurobot-2019-finals-results" > 2nd place with Reset team at the world finals robotics competition "Eurobot OPEN" </a> (France, 2019)
 
 <a href="https://www.helmholtz-berlin.de/jobskarriere/sommerstudenten/index_en.html" > HZB 2018 Undergraduate Fellowship<a> (Berlin, Germany)
 </div>
@@ -95,6 +95,7 @@ Recently...
 <div class="unit half news-item">
 ![Defence](/assets/img/events/4.jpg)
 </div>
+
 <div class="unit whole news-item">
 <strong> August, 2019 </strong> - I moved to Pittsburgh, PA! Very excited to work on my research projects at the Robotics Institute of CMU under supervision of Howie Choset
 </div>
@@ -109,6 +110,32 @@ Recently...
 </div>
 
 <div class="unit whole news-item">
+<strong> June, 2019 </strong> It was in this year that <a href="https://truestory.skoltech.ru/reset" > Russia with my Reset team<a> won 2nd place in our first world finals robotics competition "Eurobot OPEN" </a> (France, 2019). The feeling when your team wins that semifinal is a feeling full of pride and accomplishment, you can not help but think, "man, we did it, we finally did it after all these years". The <strong> Reset-team</strong> won 2nd place for 5 years and it was such an accomplishment for me and the orher teammates to be the first that made Russian robotics history!
+</div>
+
+<div class="unit whole news-item">
+<div class="unit half news-item">
+![DDS](/assets/img/events/12.jpg)
+</div>
+<div class="unit half news-item">
+![Defence](/assets/img/events/13.jpg)
+</div>
+</div>
+
+<div class="unit whole news-item">
+<strong> April, 2019 </strong> - My Reset team winner of the National stage "Eurobot OPEN" (Russia, 2019)
+</div>
+
+<div class="unit whole news-item">
+<div class="unit half news-item">
+![DDS](/assets/img/events/8.jpg)
+</div>
+<div class="unit half news-item">
+![Defence](/assets/img/events/9.jpg)
+</div>
+</div>
+
+<div class="unit whole news-item">
 <strong> January, 2019 </strong> - Boeing sponsored Pilot School in Moscow, Russia (independent studies period at Skoltech University). For several weeks, I completed dozens of hours behind a flight simulator, in hopes of becoming among the high-scoring few that can finish the term and get a chance to fly behind controls of a real flight deck.
 </div>
 
@@ -118,6 +145,19 @@ Recently...
 </div>
 <div class="unit half news-item">
 ![Defence](/assets/img/events/7.jpg)
+</div>
+
+<div class="unit whole news-item">
+<strong> December, 2018 </strong> - My team has developed and launched a payload (cubesat) from the ground to about 24 km into the atmosphere to research various characteristics of solar cells during a Systems Engineering cource at Skoltech.
+</div>
+
+<div class="unit whole news-item">
+<div class="unit half news-item">
+![DDS](/assets/img/events/10.jpg)
+</div>
+<div class="unit half news-item">
+![Defence](/assets/img/events/11.jpg)
+</div>
 </div>
 
 </div>
