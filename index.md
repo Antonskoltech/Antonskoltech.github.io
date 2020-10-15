@@ -122,7 +122,7 @@ Recently...
 
 </div>
 <div class="unit whole news-item">
-<strong> August, 2018 </strong> - As my summer research project I successfully presented my summer research project in Helmholtz-Zentrum Berlin für Materialien und Energie (HZB) in Berlin, Germany. I also had a chance to meet the Chancellor of Germany Angela Dorothea Merkel. 
+<strong> August, 2018 </strong> - I successfully presented my summer research project at Helmholtz-Zentrum Berlin für Materialien und Energie (HZB) in Berlin, Germany. I also had a chance to meet the Chancellor of Germany Angela Dorothea Merkel. 
 </div>
 
 <div class="unit whole news-item">
