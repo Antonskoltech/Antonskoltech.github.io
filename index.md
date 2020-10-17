@@ -14,12 +14,12 @@ subtitle: Robotics enthusiast
 <div class="lead lead-about">
 Hello! My name is Anton. I'm a researcher in autonomous robotics with a particular interest in the fusion of learned and classical techniques for robust 3D perception.
 
-I am currently a research assistant at [Autonomous Transportation Systems Lab](https://robotics.innopolis.university/en/labs/laboratoriya-avtonomnyh-transportnyh-sistem/) of [Innopolis University](https://innopolis.university/en/) with [*Professor Alexandr Klimchik*](https://scholar.google.fr/citations?user=KLpMBj0AAAAJ&hl=en). I received my <strong>Master of Science in Space and Engineering Systems</strong> at [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/) in June 2020 —— including a six-month research visit at the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
+I am currently a research assistant at [Autonomous Transportation Systems Lab](https://robotics.innopolis.university/en/labs/laboratoriya-avtonomnyh-transportnyh-sistem/) of [Innopolis University](https://innopolis.university/en/) with [*Professor Alexandr Klimchik*](https://scholar.google.fr/citations?user=KLpMBj0AAAAJ&hl=en). I received my <strong>Master of Science in Space and Engineering Systems</strong> at [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/) in June 2020 — including a six-month research visit at the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
 </div>
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
 
-My Master's research work was based at [Biorobotics <LI></LI>ab](http://biorobotics.ri.cmu.edu/index.php) at the Robotics Institute of Carnegie Mellon University under the supervision of [*Professor Howie Choset*](https://scholar.google.com/citations?user=4fvo61oAAAAJ&hl=en) —— related to the development of a new 3D Place Recognition framework in 3D LiDAR-based SLAM algorithm with an orientation-invariant property.
+My Master's research work was based at [Biorobotics Lab](http://biorobotics.ri.cmu.edu/index.php) at the Robotics Institute of Carnegie Mellon University under the supervision of [*Professor Howie Choset*](https://scholar.google.com/citations?user=4fvo61oAAAAJ&hl=en) — related to the development of a new 3D Place Recognition framework in 3D LiDAR-based SLAM algorithm with an orientation-invariant property.
 </div>
 </div>
 </div>
