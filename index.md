@@ -110,7 +110,7 @@ Recently...
 </div>
 
 <div class="unit whole news-item">
-<strong> June, 2019 </strong> It was this year that <a href="https://truestory.skoltech.ru/reset" > Russia's Reset team<a> won 2nd place for our first time at world finals of the robotics competition "Eurobot OPEN" </a> (France, 2019). When we won the semifinals, the awazing feeling full of pride and accomplishment, you can not help but think, "man, we did it, we finally did it after all these years". It was such an accomplishment for me and my teammates to be the first that made Russian robotics history!
+<strong> June, 2019 </strong> It was this year that <a href="https://truestory.skoltech.ru/reset" > Russia's Reset team<a> won 2nd place for the first time in history at World Finals of the robotics competition "Eurobot OPEN" </a> (France, 2019). When we won the semifinals, the awazing feeling full of pride and accomplishment, you can not help but think, "man, we did it, we finally did it after all these years". It was such an accomplishment for me and my teammates to be the first that made Russian robotics history!
 </div>
 
 <div class="unit whole news-item">
@@ -123,7 +123,7 @@ Recently...
 </div>
 
 <div class="unit whole news-item">
-<strong> April, 2019 </strong> - My Reset team won the Nationals of "Eurobot OPEN" (Russia, 2019)
+<strong> April, 2019 </strong> - My Reset team won the national of "Eurobot OPEN" (Russia, 2019) and we moved on to international stage.
 </div>
 
 <div class="unit whole news-item">
@@ -136,7 +136,7 @@ Recently...
 </div>
 
 <div class="unit whole news-item">
-<strong> January, 2019 </strong> - During my independent studies period at Skoltech University I attended Boeing sponsored Pilot School in Moscow, Russia. For several weeks, I completed dozens of hours behind a flight simulator, in hopes of becoming among the high-scoring few that can finish the term with a chance to fly behind controls of a real flight deck.
+<strong> January, 2019 </strong> - During my independent studies period at Skoltech University, I attended Boeing sponsored Pilot School in Moscow, Russia. For several weeks, I completed dozens of hours behind a flight simulator, with the ultimate goal of becoming the the high-scoring few that can finish the term with a chance to fly behind controls of a real flight deck.
 </div>
 
 <div class="unit whole news-item">
@@ -148,7 +148,7 @@ Recently...
 </div>
 
 <div class="unit whole news-item">
-<strong> December, 2018 </strong> - My team has developed and launched a payload (cubesat) from the ground to about 24 km into the atmosphere to research various characteristics of solar cells during a Systems Engineering cource at Skoltech.
+<strong> December, 2018 </strong> - My team designed and launched from gorund a payload (CubeSat) to about 24 km into the atmosphere, with a porpose to research various characteristics of solar cells, as part of Systems Engineering cource at Skoltech.
 </div>
 
 <div class="unit whole news-item">
@@ -162,7 +162,7 @@ Recently...
 
 </div>
 <div class="unit whole news-item">
-<strong> August, 2018 </strong> - I successfully presented my summer research project at Helmholtz-Zentrum Berlin für Materialien und Energie (HZB) in Berlin, Germany. I also had a chance to meet the Chancellor of Germany Angela Dorothea Merkel. 
+<strong> August, 2018 </strong> - I successfully presented my summer research project at Helmholtz-Zentrum Berlin für Materialien und Energie (HZB) in Berlin, Germany. I also got a chance to meet the Chancellor of Germany Angela Dorothea Merkel. 
 </div>
 
 <div class="unit whole news-item">
