@@ -85,7 +85,7 @@ Recently...
 <div class="grid">
 
 <div class="unit whole news-item">
-<strong> March, 2020 </strong> - Celebratuion after successful six-month research at the Robotics Institute of Carnegie Mellon University. 
+<strong> March, 2020 </strong> - Celebration after successful six-month research at Carnegie Mellon University!
 </div>
 
 <div class="unit whole news-item">
@@ -97,7 +97,7 @@ Recently...
 </div>
 
 <div class="unit whole news-item">
-<strong> August, 2019 </strong> - I moved to Pittsburgh, PA! Very excited to work on my research projects at the Robotics Institute of CMU under supervision of Howie Choset
+<strong> August, 2019 </strong> - I moved to Pittsburgh, PA! Very excited and looking forward tp working on my research projects at the Robotics Institute of CMU!
 </div>
 
 <div class="unit whole news-item">
@@ -110,7 +110,7 @@ Recently...
 </div>
 
 <div class="unit whole news-item">
-<strong> June, 2019 </strong> It was this year that <a href="https://truestory.skoltech.ru/reset" > Russia's Reset team<a> won 2nd place for our first time at world finals of the robotics competition "Eurobot OPEN" </a> (France, 2019). The awazing feeling when your team wins that semifinal is a feeling full of pride and accomplishment, you can not help but think, "man, we did it, we finally did it after all these years". The <strong> Reset-team</strong> won 2nd place for 5 years and it was such an accomplishment for me and the orher teammates to be the first that made Russian robotics history!
+<strong> June, 2019 </strong> It was this year that <a href="https://truestory.skoltech.ru/reset" > Russia's Reset team<a> won 2nd place for our first time at world finals of the robotics competition "Eurobot OPEN" </a> (France, 2019). When we won the semifinals, the awazing feeling full of pride and accomplishment, you can not help but think, "man, we did it, we finally did it after all these years". It was such an accomplishment for me and my teammates to be the first that made Russian robotics history!
 </div>
 
 <div class="unit whole news-item">
@@ -123,7 +123,7 @@ Recently...
 </div>
 
 <div class="unit whole news-item">
-<strong> April, 2019 </strong> - My Reset team winner of the National stage "Eurobot OPEN" (Russia, 2019)
+<strong> April, 2019 </strong> - My Reset team won the Nationals of "Eurobot OPEN" (Russia, 2019)
 </div>
 
 <div class="unit whole news-item">
@@ -136,7 +136,7 @@ Recently...
 </div>
 
 <div class="unit whole news-item">
-<strong> January, 2019 </strong> - Boeing sponsored Pilot School in Moscow, Russia (independent studies period at Skoltech University). For several weeks, I completed dozens of hours behind a flight simulator, in hopes of becoming among the high-scoring few that can finish the term and get a chance to fly behind controls of a real flight deck.
+<strong> January, 2019 </strong> - During my independent studies period at Skoltech University I attended Boeing sponsored Pilot School in Moscow, Russia. For several weeks, I completed dozens of hours behind a flight simulator, in hopes of becoming among the high-scoring few that can finish the term with a chance to fly behind controls of a real flight deck.
 </div>
 
 <div class="unit whole news-item">
