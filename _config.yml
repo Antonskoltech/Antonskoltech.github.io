@@ -36,7 +36,7 @@ navigation:
   - title: Projects
     url: /work/
     desc: My writing
-  - title: Work
+  - title: Work Experience
     url: /projects/
   - title: <i class='fa fa-file-text'></i> CV
     url: /assets/pdf/CV.pdf
