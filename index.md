@@ -14,12 +14,12 @@ subtitle: Robotics enthusiast
 <div class="lead lead-about">
 Hello! My name is Anton. I'm a researcher in autonomous robotics with a particular interest in the fusion of learned and classical techniques for robust 3D perception.
 
-I am currently a research assistant at [Autonomous Transportation Systems Lab](https://robotics.innopolis.university/en/labs/laboratoriya-avtonomnyh-transportnyh-sistem/) of [Innopolis University](https://innopolis.university/en/) with [*Professor. Alexandr Klimchik*](https://scholar.google.fr/citations?user=KLpMBj0AAAAJ&hl=en). I received my <strong>Master of Science in Space and Engineering Systems</strong> at [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/) in June 2020 - including a six-month research visit at the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
+I am currently a research assistant at [Autonomous Transportation Systems Lab](https://robotics.innopolis.university/en/labs/laboratoriya-avtonomnyh-transportnyh-sistem/) of [Innopolis University](https://innopolis.university/en/) with [*Professor Alexandr Klimchik*](https://scholar.google.fr/citations?user=KLpMBj0AAAAJ&hl=en). I received my <strong>Master of Science in Space and Engineering Systems</strong> at [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/) in June 2020 —— including a six-month research visit at the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
 </div>
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
 
-My Master's research work was based in [Biorobotics lab](http://biorobotics.ri.cmu.edu/index.php) at the Robotics Institute of Carnegie Mellon University under supervision of [*Professor. Howie Choset*](https://scholar.google.com/citations?user=4fvo61oAAAAJ&hl=en) - related to the development of a new 3D Place Recognition framework in 3D LiDAR-based SLAM algorithm with an orientation-invariant property.
+My Master's research work was based at [Biorobotics lab](http://biorobotics.ri.cmu.edu/index.php) at the Robotics Institute of Carnegie Mellon University under the supervision of [*Professor Howie Choset*](https://scholar.google.com/citations?user=4fvo61oAAAAJ&hl=en) —— related to the development of a new 3D Place Recognition framework in 3D LiDAR-based SLAM algorithm with an orientation-invariant property.
 </div>
 </div>
 </div>
@@ -43,7 +43,7 @@ Recently...
 
 <h3> <i class="fa fa-id-card"></i> Awards & Honors </h3>
 
-<a href="https://www.skoltech.ru/en/education/academic-mobility/" >Skoltech’s academic mobility<a> (CMU, USA) grant for Master's students (2019-2020)
+<a href="https://www.skoltech.ru/en/education/academic-mobility/" >Skoltech’s academic mobility<a> (CMU, USA) grant for graduate students (2019-2020)
 
 <a href="https://www.eurobot.org/eurobot/eurobot-2019/eurobot-2019-finals-results" > 2nd place with Reset team at the world finals robotics competition "Eurobot OPEN" </a> (France, 2019)
 
@@ -85,7 +85,7 @@ Recently...
 <div class="grid">
 
 <div class="unit whole news-item">
-<strong> March, 2020 </strong> - After six-month research work at the Robotics Institute of Carnegie Mellon University.
+<strong> March, 2020 </strong> - Celebratuion after successful six-month research at the Robotics Institute of Carnegie Mellon University. 
 </div>
 
 <div class="unit whole news-item">
@@ -110,7 +110,7 @@ Recently...
 </div>
 
 <div class="unit whole news-item">
-<strong> June, 2019 </strong> It was in this year that <a href="https://truestory.skoltech.ru/reset" > Russia with my Reset team<a> won 2nd place in our first world finals robotics competition "Eurobot OPEN" </a> (France, 2019). The feeling when your team wins that semifinal is a feeling full of pride and accomplishment, you can not help but think, "man, we did it, we finally did it after all these years". The <strong> Reset-team</strong> won 2nd place for 5 years and it was such an accomplishment for me and the orher teammates to be the first that made Russian robotics history!
+<strong> June, 2019 </strong> It was this year that <a href="https://truestory.skoltech.ru/reset" > Russia's Reset team<a> won 2nd place for our first time at world finals of the robotics competition "Eurobot OPEN" </a> (France, 2019). The awazing feeling when your team wins that semifinal is a feeling full of pride and accomplishment, you can not help but think, "man, we did it, we finally did it after all these years". The <strong> Reset-team</strong> won 2nd place for 5 years and it was such an accomplishment for me and the orher teammates to be the first that made Russian robotics history!
 </div>
 
 <div class="unit whole news-item">
