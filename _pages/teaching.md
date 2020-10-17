@@ -17,7 +17,7 @@ permalink: /teaching/
 <div class="unit two-thirds">
 #### Mobile Robotics and Autonomous Driving 
 *Fall 2020*  
-This is a second year course in the Computer Science division at the Innopolis University. It covers an array of topics in mobile robot kinematics, perception-SLAM and planning for mobile robotcs. I have taught and prepared homework for one section (Particle Filter, linear and Non linear Kalman Filters) of students (typically 9 students).
+This is a second year course in the Computer Science division at the Innopolis University. It covers an array of topics in mobile robot kinematics, perception-SLAM and planning for mobile robotcs. I have taught and prepared homework for one section (Particle Filter, linear and Non linear Kalman Filters) of students (typically 9 students). As a result of studying this class, students became interested and began to apply their knowledge in the development of localization of <a href="https://www.youtube.com/watch?v=xGB2NR8qpKY&t">self-driving university vehicles</a> for Russian Industry.
 </div>
 </div>
 
