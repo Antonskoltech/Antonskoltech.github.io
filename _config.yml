@@ -30,12 +30,12 @@ navigation:
   - title: Publications 
     url: /research/
     desc: My publications
+  - title: Projects
+    url: /work/
+    desc: My projects
   - title: Teaching
     url: /teaching/
     desc: Courses I've TA'd and taught
-  - title: Projects
-    url: /work/
-    desc: My projects 
   - title: Work Experience
     url: /projects/
     desc: My professional experience 

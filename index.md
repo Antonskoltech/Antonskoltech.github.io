@@ -19,7 +19,7 @@ I am currently a research assistant at [Autonomous Transportation Systems Lab](h
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
 
-My Master's research work was based at [Biorobotics lab](http://biorobotics.ri.cmu.edu/index.php) at the Robotics Institute of Carnegie Mellon University under the supervision of [*Professor Howie Choset*](https://scholar.google.com/citations?user=4fvo61oAAAAJ&hl=en) —— related to the development of a new 3D Place Recognition framework in 3D LiDAR-based SLAM algorithm with an orientation-invariant property.
+My Master's research work was based at [Biorobotics <LI></LI>ab](http://biorobotics.ri.cmu.edu/index.php) at the Robotics Institute of Carnegie Mellon University under the supervision of [*Professor Howie Choset*](https://scholar.google.com/citations?user=4fvo61oAAAAJ&hl=en) —— related to the development of a new 3D Place Recognition framework in 3D LiDAR-based SLAM algorithm with an orientation-invariant property.
 </div>
 </div>
 </div>
@@ -123,7 +123,7 @@ Recently...
 </div>
 
 <div class="unit whole news-item">
-<strong> April, 2019 </strong> - My Reset team won the national of "Eurobot OPEN" (Russia, 2019) and we moved on to international stage.
+<strong> April, 2019 </strong> - My Reset team won the nationals of "Eurobot OPEN", and we moved on to international stage.(Moscow, Russia )
 </div>
 
 <div class="unit whole news-item">
