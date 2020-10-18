@@ -24,7 +24,7 @@ permalink: /research/
 *Peng Yin, Fuying Wang, Anton Egorov, Jiafan Hou, Ji Zhang, Howie Choset*
 
 Will be presented in International Conference on Intelligent Robots and Systems (IROS2020), Las Vegas, NV, USA, 2020  
-[<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=MB3CF2yy2EU)
+[<i class="fa fa-youtube"></i> Video](https://www.youtube.com/watch?v=MB3CF2yy2EU)
 
 </div>
 </div>
@@ -39,7 +39,7 @@ Will be presented in International Conference on Intelligent Robots and Systems 
 
 IEEE Journal on Miniaturization for Air and Space Systems (J-MASS 2020)
 [<i class="fa fa-newspaper-o"></i> arXiv](https://ieeexplore.ieee.org/document/9163320/authors#authors)
-[<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=Ug_XYDpnKl0)
+[<i class="fa fa-youtube"></i> Video](https://www.youtube.com/watch?v=Ug_XYDpnKl0)
 </div>
 </div>
 
