@@ -97,7 +97,7 @@ Recently...
 </div>
 
 <div class="unit whole news-item">
-<strong> August, 2019 </strong> - I moved to Pittsburgh, PA! Very excited and looking forward tp working on my research projects at the Robotics Institute of CMU!
+<strong> August, 2019 </strong> - I moved to Pittsburgh, PA! Very excited and looking forward to working on my research projects at the Robotics Institute of CMU!
 </div>
 
 <div class="unit whole news-item">
@@ -123,7 +123,7 @@ Recently...
 </div>
 
 <div class="unit whole news-item">
-<strong> April, 2019 </strong> - My Reset team won the nationals of "Eurobot OPEN", and we moved on to international stage.(Moscow, Russia )
+<strong> April, 2019 </strong> - My Reset team won the nationals of "Eurobot OPEN", and we moved on to international stage. (Moscow, Russia )
 </div>
 
 <div class="unit whole news-item">
