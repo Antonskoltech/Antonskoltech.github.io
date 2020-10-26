@@ -33,7 +33,7 @@ My Master's research work was based at [Biorobotics Lab](http://biorobotics.ri.c
 * the web chair for the upcoming [Conference on Robot Learning (CoRL 2020)](https://www.robot-learning.org/).  -->
 
 Recently... 
-* Co-authored work titled *SeqSphereVLAD: Sequence Matching Enhanced Orientation-Invariant Place Recognition*. Research was accepted for publication and will be presented at IROS 2020<!-- ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), --> <br>([<i class="fa fa-youtube"></i> Video](https://www.youtube.com/watch?v=MB3CF2yy2EU)).
+* Co-authored work titled *SeqSphereVLAD: Sequence Matching Enhanced Orientation-Invariant Place Recognition*. Research was accepted for publication and will be presented at IROS 2020<!-- ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), --> <br>([Official Page](https://ras.papercept.net/proceedings/IROS20/0583.pdf), [<i class="fa fa-youtube"></i> Video](https://www.youtube.com/watch?v=MB3CF2yy2EU)).
 * Co-authored work titled *LocoGear: Locomotion Analysis of Robotic Landing Gear for Multicopters*. Research has been published in J-MASS-journal paper ([Official Page](https://ieeexplore.ieee.org/document/9163320), [<i class="fa fa-youtube"></i> Video](https://www.youtube.com/watch?v=Ug_XYDpnKl0)).
 
 </div>

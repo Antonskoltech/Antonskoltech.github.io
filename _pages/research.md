@@ -20,7 +20,7 @@ permalink: /research/
 ![](/assets/img/papers/idea.jpg)
 </div>
 <div class="unit two-thirds">
-#### SeqSphereVLAD: Sequence Matching Enhanced Orientation-invariant Place Recognition
+#### [SeqSphereVLAD: Sequence Matching Enhanced Orientation-invariant Place Recognition](https://ras.papercept.net/proceedings/IROS20/0583.pdf)
 *Peng Yin, Fuying Wang, Anton Egorov, Jiafan Hou, Ji Zhang, Howie Choset*
 
 Will be presented in International Conference on Intelligent Robots and Systems (IROS2020), Las Vegas, NV, USA, 2020  
