@@ -83,6 +83,14 @@ Recently...
 ## Events
 
 <div class="grid">
+<div class="unit whole news-item">
+<strong> November, 2020 </strong> - I moved to High Tech Innopolis city, Russia! Aspiring to working on my research in SLAM team at Autonomous Transportation Systems Lab of Innopolis University !
+</div>
+
+<div class="unit whole news-item">
+<div class="unit whole news-item">
+![DDS](/assets/img/events/14.jpg)
+</div>
 
 <div class="unit whole news-item">
 <strong> March, 2020 </strong> - Celebration after successful six-month research at Carnegie Mellon University!
