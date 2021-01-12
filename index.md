@@ -58,11 +58,19 @@ Recently...
 <div class="projects">
 
   <div class="grid">
+        <div class="unit half">
+        <div class="project">
+          <h4 class="project-title"> <a href="https://ras.papercept.net/proceedings/IROS20/0583.pdf">3D Place recognition with Fast Sequence-matching</a></h4>
+          <img src='/assets/img/papers/seq_framework_fig4.jpg' class='project-img'>
+          <p>To improve sequence matching efficiency in 3D Place recognition, we designed a coarse-to-fine fast sequence matching mechanism to balance the matching efficiency and accuracy. Research has been accepted for publication</a> in <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-electronics"> IEEE Transactions on Industrial Electronics journal (TIE 2021).</a></p>
+        </div>
+      </div>
+
       <div class="unit half">
         <div class="project">
           <h4 class="project-title"> <a href="https://ras.papercept.net/proceedings/IROS20/0583.pdf">3D Place recognition with SeqSphereVLAD</a></h4>
-          <img src='/assets/img/projects/spherevlad_framework.jpg' class='project-img'>
-          <p>SeqSphereVLAD is a deep learing approach to achieving accurate and robust 3D Place recognition (used to build large scale 3D maps) using point-clouds (3D LiDAR data) based on a viewpoint-invariant descriptor. This work has been accepted for publication and will be presented in the <a href="https://www.iros2020.org/index.html"> International Conference on Intelligent Robots and Systems (IROS 2020)</a>, Las Vegas, NV.
+          <img src='/assets/img/papers/spherevlad_framework.jpg' class='project-img'>
+          <p>SeqSphereVLAD is a deep learing approach to achieving accurate and robust 3D Place recognition (used to build large scale 3D maps) using point-clouds (3D LiDAR data) based on a viewpoint-invariant descriptor. This work has been accepted for publication and presented in the <a href="https://www.iros2020.org/index.html"> International Conference on Intelligent Robots and Systems (IROS 2020)</a>, Las Vegas, NV.
         </div>
       </div>
 
