@@ -60,7 +60,7 @@ Recently...
   <div class="grid">
         <div class="unit half">
         <div class="project">
-          <h4 class="project-title"> <a href="https://ras.papercept.net/proceedings/IROS20/0583.pdf">3D Place recognition with Fast Sequence-matching</a></h4>
+          <h4 class="project-title"> <a href="">3D Place recognition with Fast Sequence-matching</a></h4>
           <img src='/assets/img/papers/seq_framework_fig4.jpg' class='project-img'>
           <p>To improve sequence matching efficiency in 3D Place recognition, we designed a coarse-to-fine fast sequence matching mechanism to balance the matching efficiency and accuracy. Research has been accepted for publication</a> in <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-electronics"> IEEE Transactions on Industrial Electronics journal (TIE 2021).</a></p>
         </div>
