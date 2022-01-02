@@ -67,7 +67,7 @@ Recently...
           <img src='/assets/img/papers/pse_match.png' class='project-img'>
           <p>To solve a scene divergence under the interference of dynamic environments, effective perception of observation and object layout variance from different viewpoints, my group developed a PSE-Match, a viewpoint-free place ecognition method based on parallel semantic analysis of isolated semantic attributes from 3D point-cloud models. 
             <br>
-            Research has been <a href="hhttps://ieeexplore.ieee.org/abstract/document/9523568"><i class="fa fa-file-text" aria-hidden="true"></i> published</a> in <a href="https://ieee-itss.org/pub/t-its/"> IEEE Transactions on Intelligent Transportation Systems journal (T-ITS 2021).</a></p>
+            Research has been <a href="https://ieeexplore.ieee.org/abstract/document/9523568"><i class="fa fa-file-text" aria-hidden="true"></i> published</a> in <a href="https://ieee-itss.org/pub/t-its/"> IEEE Transactions on Intelligent Transportation Systems journal (T-ITS 2021).</a></p>
         </div>
       </div>
 
