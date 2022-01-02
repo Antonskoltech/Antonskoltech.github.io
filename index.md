@@ -14,7 +14,8 @@ subtitle: Robotics enthusiast
 <div class="lead lead-about">
 Hello! My name is Anton. I'm a researcher in autonomous robotics with a particular interest in computer vision (3D point cloud semantic segmentation) and deep learing for robust 3D perception. I am also broadly interested in SLAM.
 
-I am currently a ML research engineer at [Autonomous Transportation Systems Lab](https://robotics.innopolis.university/en/labs/laboratoriya-avtonomnyh-transportnyh-sistem/) of [Innopolis University](https://innopolis.university/en/) with [*Professor Alexandr Klimchik*](https://scholar.google.fr/citations?user=KLpMBj0AAAAJ&hl=en). I received my <strong>Master of Science in Space and Engineering Systems</strong> at [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/) in June 2020 — including a six-month research visit at the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
+I am currently a Middle Software Developer (Localization and Mapping (SLAM) team) in Self-Driving Group at [OZON](https://corp.ozon.com/) Technology working on developing of algorithms that underlie SLAM.
+From August 2020 to June 2021, I was a doctaral student at [Autonomous Transportation Systems Lab](https://robotics.innopolis.university/en/labs/laboratoriya-avtonomnyh-transportnyh-sistem/) of [Innopolis University](https://innopolis.university/en/) with [*Professor Alexandr Klimchik*](https://scholar.google.fr/citations?user=KLpMBj0AAAAJ&hl=en). I received my <strong>Master of Science in Space and Engineering Systems</strong> at [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/) in June 2020 — including a six-month research visit at the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
 </div>
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
@@ -34,6 +35,7 @@ My Master's research work was based at [Biorobotics Lab](http://biorobotics.ri.c
 
 Recently...
 
+* Co-authored work titled *PSE-Match: A Viewpoint-free Place Recognition Method with Parallel Semantic Embedding*. Research has been accepted for publication in IEEE Transactions on Intelligent Transportation Systems journal(T-ITS 2021).
 * Co-authored work titled *Fast Sequence-matching Enhanced orientation-invariant 3D Place Recognition*. Research has been accepted for publication in IEEE Transactions on Industrial Electronics journal (TIE 2021).
 * Co-authored work titled *SeqSphereVLAD: Sequence Matching Enhanced Orientation-Invariant Place Recognition*. Research has been accepted for publication and presented at IROS 2020<!-- ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), --> <br>([Official Page](https://ras.papercept.net/proceedings/IROS20/0583.pdf), [<i class="fa fa-youtube"></i> Video](https://www.youtube.com/watch?v=MB3CF2yy2EU)).
 * Co-authored work titled *LocoGear: Locomotion Analysis of Robotic Landing Gear for Multicopters*. Research has been published in J-MASS-journal ([Official Page](https://ieeexplore.ieee.org/document/9163320), [<i class="fa fa-youtube"></i> Video](https://www.youtube.com/watch?v=Ug_XYDpnKl0)).
@@ -60,15 +62,24 @@ Recently...
   <div class="grid">
         <div class="unit half">
         <div class="project">
+          <h4 class="project-title"> <a href="">3D Place recognition with parallel semantic embedding</a></h4>
+          <img src='/assets/img/papers/pse_match.png' class='project-img'>
+          <p>To solve a scene divergence under the interference of dynamic environments, effective perception of observation and object layout variance from different viewpoints, my group developed a PSE-Match, a viewpoint-free place ecognition method based on parallel semantic analysis of isolated semantic attributes from 3D point-cloud models. Research has been accepted for publication</a> in <a href="https://ieeexplore.ieee.org/abstract/document/9523568"> IEEE Transactions on Intelligent Transportation Systems journal (T-ITS 2021).</a></p>
+        </div>
+      </div>
+
+  <div class="grid">
+        <div class="unit half">
+        <div class="project">
           <h4 class="project-title"> <a href="">3D Place recognition with Fast Sequence-matching</a></h4>
           <img src='/assets/img/papers/seq_framework_fig4.jpg' class='project-img'>
           <p>To improve sequence matching efficiency in 3D Place recognition, we designed a coarse-to-fine fast sequence matching mechanism to balance the matching efficiency and accuracy. Research has been accepted for publication</a> in <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-electronics"> IEEE Transactions on Industrial Electronics journal (TIE 2021).</a></p>
         </div>
       </div>
 
-      <div class="unit half">
+  <div class="unit half">
         <div class="project">
-          <h4 class="project-title"> <a href="https://ras.papercept.net/proceedings/IROS20/0583.pdf">3D Place recognition with SeqSphereVLAD</a></h4>
+          <h4 class="project-title"> <a href="https://ieeexplore.ieee.org/document/9341727?denied=">3D Place recognition with SeqSphereVLAD</a></h4>
           <img src='/assets/img/projects/spherevlad_framework.jpg' class='project-img'>
           <p>SeqSphereVLAD is a deep learing approach to achieving accurate and robust 3D Place recognition (used to build large scale 3D maps) using point-clouds (3D LiDAR data) based on a viewpoint-invariant descriptor. This work has been accepted for publication and presented in the <a href="https://www.iros2020.org/index.html"> International Conference on Intelligent Robots and Systems (IROS 2020)</a>, Las Vegas, NV.
         </div>
@@ -91,6 +102,19 @@ Recently...
 ---
 
 ## Events
+
+<div class="grid">
+<div class="unit whole news-item">
+<strong> June, 2021 </strong> - My last day as an engineer in Localization and Mapping team at Autonomous Transportation Systems Lab of Innopolis University in Russia! As a result, I worked on building the first Self-Driving truck in Russia, the first Self-Driving car to pass a practical exam for obtaining a driver's license
+</div>
+
+<div class="unit whole news-item">
+<div class="unit half news-item">
+![DDS](/assets/img/events/16.jpg)
+</div>
+<div class="unit half news-item">
+![Defence](/assets/img/events/17.jpg)
+</div>
 
 <div class="grid">
 <div class="unit whole news-item">
