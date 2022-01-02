@@ -65,7 +65,9 @@ Recently...
         <div class="project">
           <h4 class="project-title"> <a href="https://ieeexplore.ieee.org/abstract/document/9523568">3D Place recognition with parallel semantic embedding</a></h4>
           <img src='/assets/img/papers/pse_match.png' class='project-img'>
-          <p>To solve a scene divergence under the interference of dynamic environments, effective perception of observation and object layout variance from different viewpoints, my group developed a PSE-Match, a viewpoint-free place ecognition method based on parallel semantic analysis of isolated semantic attributes from 3D point-cloud models. Research has been <a href="hhttps://ieeexplore.ieee.org/abstract/document/9523568"><i class="fa fa-file-text" aria-hidden="true"></i> published</a> in <a href="https://ieeexplore.ieee.org/abstract/document/9523568"> IEEE Transactions on Intelligent Transportation Systems journal (T-ITS 2021).</a></p>
+          <p>To solve a scene divergence under the interference of dynamic environments, effective perception of observation and object layout variance from different viewpoints, my group developed a PSE-Match, a viewpoint-free place ecognition method based on parallel semantic analysis of isolated semantic attributes from 3D point-cloud models. 
+            <br>
+            Research has been <a href="hhttps://ieeexplore.ieee.org/abstract/document/9523568"><i class="fa fa-file-text" aria-hidden="true"></i> published</a> in <a href="https://ieee-itss.org/pub/t-its/"> IEEE Transactions on Intelligent Transportation Systems journal (T-ITS 2021).</a></p>
         </div>
       </div>
 
@@ -89,7 +91,9 @@ Recently...
     <div class="project">
       <h4 class="project-title"><a href="https://ieeexplore.ieee.org/document/9163320">LocoGear: Locomotion Analysis</a></h4>
       <img src='/assets/img/papers/geer_fig1.png' class='project-img'>
-      <p> LocoGear, a novel algorithm for locomotion with UAV equipped robotic landing gear. Research has been <a href="https://ieeexplore.ieee.org/document/9163320"><i class="fa fa-file-text" aria-hidden="true"></i> published</a> in <a href="https://ieee-jmass.org/"> IEEE Journal on Miniaturization for Air and Space Systems (J-MASS 2020).</a></p>
+      <p> LocoGear, a novel algorithm for locomotion with UAV equipped robotic landing gear. 
+        <br>
+        Research has been <a href="https://ieeexplore.ieee.org/document/9163320"><i class="fa fa-file-text" aria-hidden="true"></i> published</a> in <a href="https://ieee-jmass.org/"> IEEE Journal on Miniaturization for Air and Space Systems (J-MASS 2020).</a></p>
       </div>
   </div>
   </div><!-- grid -->
