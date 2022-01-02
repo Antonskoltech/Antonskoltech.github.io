@@ -63,17 +63,17 @@ Recently...
   <div class="grid">
    <div class="unit half">
         <div class="project">
-          <h4 class="project-title"> <a href="">3D Place recognition with parallel semantic embedding</a></h4>
+          <h4 class="project-title"> <a href="https://ieeexplore.ieee.org/abstract/document/9523568">3D Place recognition with parallel semantic embedding</a></h4>
           <img src='/assets/img/papers/pse_match.png' class='project-img'>
-          <p>To solve a scene divergence under the interference of dynamic environments, effective perception of observation and object layout variance from different viewpoints, my group developed a PSE-Match, a viewpoint-free place ecognition method based on parallel semantic analysis of isolated semantic attributes from 3D point-cloud models. Research has been accepted for publication</a> in <a href="https://ieeexplore.ieee.org/abstract/document/9523568"> IEEE Transactions on Intelligent Transportation Systems journal (T-ITS 2021).</a></p>
+          <p>To solve a scene divergence under the interference of dynamic environments, effective perception of observation and object layout variance from different viewpoints, my group developed a PSE-Match, a viewpoint-free place ecognition method based on parallel semantic analysis of isolated semantic attributes from 3D point-cloud models. Research has been <a href="hhttps://ieeexplore.ieee.org/abstract/document/9523568"><i class="fa fa-file-text" aria-hidden="true"></i> published</a> in <a href="https://ieeexplore.ieee.org/abstract/document/9523568"> IEEE Transactions on Intelligent Transportation Systems journal (T-ITS 2021).</a></p>
         </div>
       </div>
 
    <div class="unit half">
         <div class="project">
-          <h4 class="project-title"> <a href="">3D Place recognition with Fast Sequence-matching</a></h4>
+          <h4 class="project-title"> <a href="https://ieeexplore.ieee.org/abstract/document/9351776">3D Place recognition with Fast Sequence-matching</a></h4>
           <img src='/assets/img/papers/seq_framework_fig4.jpg' class='project-img'>
-          <p>To improve sequence matching efficiency in 3D Place recognition, we designed a coarse-to-fine fast sequence matching mechanism to balance the matching efficiency and accuracy. Research has been accepted for publication</a> in <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-electronics"> IEEE Transactions on Industrial Electronics journal (TIE 2021).</a></p>
+          <p>To improve sequence matching efficiency in 3D Place recognition, we designed a coarse-to-fine fast sequence matching mechanism to balance the matching efficiency and accuracy. Research has been <a href="https://ieeexplore.ieee.org/abstract/document/9351776"><i class="fa fa-file-text" aria-hidden="true"></i> published</a> in <a href="http://www.ieee-ies.org/pubs/transactions-on-industrial-electronics"> IEEE Transactions on Industrial Electronics journal (TIE 2021).</a></p>
         </div>
       </div>
 
@@ -81,7 +81,7 @@ Recently...
         <div class="project">
           <h4 class="project-title"> <a href="https://ieeexplore.ieee.org/document/9341727?denied=">3D Place recognition with SeqSphereVLAD</a></h4>
           <img src='/assets/img/projects/spherevlad_framework.jpg' class='project-img'>
-          <p>SeqSphereVLAD is a deep learing approach to achieving accurate and robust 3D Place recognition (used to build large scale 3D maps) using point-clouds (3D LiDAR data) based on a viewpoint-invariant descriptor. This work has been accepted for publication and presented in the <a href="https://www.iros2020.org/index.html"> International Conference on Intelligent Robots and Systems (IROS 2020)</a>, Las Vegas, NV.
+          <p>SeqSphereVLAD is a deep learing approach to achieving accurate and robust 3D Place recognition (used to build large scale 3D maps) using point-clouds (3D LiDAR data) based on a viewpoint-invariant descriptor. This work has been <a href="https://ieeexplore.ieee.org/document/9341727?denied="><i class="fa fa-file-text" aria-hidden="true"></i> published</a> in the <a href="https://www.iros2020.org/index.html"> International Conference on Intelligent Robots and Systems (IROS 2020)</a>, Las Vegas, NV.
         </div>
       </div>
 
