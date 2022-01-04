@@ -109,7 +109,7 @@ Recently...
 
 <div class="grid">
 <div class="unit whole news-item">
-<strong> June, 2021 </strong> - My last day as an engineer in Localization and Mapping team at Autonomous Transportation Systems Lab of Innopolis University in Russia! As a result, I worked on building the first Self-Driving truck in Russia, the first Self-Driving car to pass a practical exam for obtaining a driver's license
+<strong> June, 2021 </strong> - It is my last day as an engineer in the Localization and Mapping team at the Autonomous Transportation Systems Lab of Innopolis University in Russia! There, I worked on creating a SLAM and Perception algorithms for the first self-driving truck in Russia and the first self-driving car to pass a practical driver's license exam.
 </div>
 
 <div class="unit whole news-item">
