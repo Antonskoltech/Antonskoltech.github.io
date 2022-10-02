@@ -14,7 +14,7 @@ subtitle: Robotics enthusiast
 <div class="lead lead-about">
 Hello! My name is Anton. I'm a researcher in autonomous robotics with a particular interest in computer vision (3D point cloud semantic segmentation) and deep learning for robust 3D perception. I am also broadly interested in SLAM.
 
-I am currently a Data Scientist (ML Matching Team) at [OZON](https://corp.ozon.com/) Technology. Prior to this role, I served as Middle Software Developer (Localization and Mapping (SLAM) team) in Self-Driving Group in the same company. I have been working on developing of algorithms that underlie SLAM.
+I am currently a Data Scientist (ML Matching Team) at [OZON](https://corp.ozon.com/) Technology in Russia. Prior to this role, I served as Middle Software Developer (Localization and Mapping (SLAM) team) in Self-Driving Group in the same company. I have been working on developing of algorithms that underlie SLAM.
 
 From August 2020 to June 2021, I was a doctaral student at [Autonomous Transportation Systems Lab](https://robotics.innopolis.university/en/labs/laboratoriya-avtonomnyh-transportnyh-sistem/) of [Innopolis University](https://innopolis.university/en/) with [*Professor Alexandr Klimchik*](https://scholar.google.fr/citations?user=KLpMBj0AAAAJ&hl=en). I received my <strong>Master of Science in Space and Engineering Systems</strong> at [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/) in June 2020 — including a six-month research visit at the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
 </div>
