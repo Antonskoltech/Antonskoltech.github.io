@@ -36,8 +36,8 @@ My Master's research work was based at [Biorobotics Lab](http://biorobotics.ri.c
 
 Recently...
 
-* Co-authored work titled *PSE-Match: A Viewpoint-free Place Recognition Method with Parallel Semantic Embedding*. Research has been accepted for publication in IEEE Transactions on Intelligent Transportation Systems journal (T-ITS 2021) ([Official Page](https://ieeexplore.ieee.org/abstract/document/9523568).
-* Co-authored work titled *Fast Sequence-matching Enhanced orientation-invariant 3D Place Recognition*. Research has been accepted for publication in IEEE Transactions on Industrial Electronics journal (TIE 2021) ([Official Page](https://ieeexplore.ieee.org/abstract/document/9351776).
+* Co-authored work titled *PSE-Match: A Viewpoint-free Place Recognition Method with Parallel Semantic Embedding*. Research has been accepted for publication in IEEE Transactions on Intelligent Transportation Systems journal (T-ITS 2021) ([Official Page](https://ieeexplore.ieee.org/abstract/document/9523568)).
+* Co-authored work titled *Fast Sequence-matching Enhanced orientation-invariant 3D Place Recognition*. Research has been accepted for publication in IEEE Transactions on Industrial Electronics journal (TIE 2021) ([Official Page](https://ieeexplore.ieee.org/abstract/document/9351776)).
 * Co-authored work titled *SeqSphereVLAD: Sequence Matching Enhanced Orientation-Invariant Place Recognition*. Research has been accepted for publication and presented at IROS 2020<!-- ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), --> <br>([Official Page](https://ieeexplore.ieee.org/abstract/document/9341727), [<i class="fa fa-youtube"></i> Video](https://www.youtube.com/watch?v=MB3CF2yy2EU)).
 * Co-authored work titled *LocoGear: Locomotion Analysis of Robotic Landing Gear for Multicopters*. Research has been published in J-MASS-journal ([Official Page](https://ieeexplore.ieee.org/document/9163320), [<i class="fa fa-youtube"></i> Video](https://www.youtube.com/watch?v=Ug_XYDpnKl0)).
 
