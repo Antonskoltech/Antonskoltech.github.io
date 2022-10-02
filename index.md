@@ -12,7 +12,7 @@ subtitle: Robotics enthusiast
 </div>
 <div class="unit golden-large">
 <div class="lead lead-about">
-Hello! My name is Anton. I'm a researcher in autonomous robotics with a particular interest in computer vision (3D point cloud semantic segmentation) and deep learing for robust 3D perception. I am also broadly interested in SLAM.
+Hello! My name is Anton. I'm a researcher in autonomous robotics with a particular interest in computer vision (3D point cloud semantic segmentation) and deep learning for robust 3D perception. I am also broadly interested in SLAM.
 
 I am currently a Data Scientist (ML Matching Team) at [OZON](https://corp.ozon.com/) Technology. Prior to this role, I served as Middle Software Developer (Localization and Mapping (SLAM) team) in Self-Driving Group in the same company. I have been working on developing of algorithms that underlie SLAM.
 
@@ -35,7 +35,7 @@ My Master's research work was based at [Biorobotics Lab](http://biorobotics.ri.c
 * the web chair for the upcoming [Conference on Robot Learning (CoRL 2020)](https://www.robot-learning.org/).  -->
 
 Recently...
-
+* Co-organizer (Development Team) of 2nd [Workshop](https://cv4aec.github.io/) and Challenge on Computer vision in the build environment for the design, construction, and operation of buildings segmentations. Held in conjunction with the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022, New Orleans, Louisiana, USA, June 2022.
 * Co-authored work titled *PSE-Match: A Viewpoint-free Place Recognition Method with Parallel Semantic Embedding*. Research has been accepted for publication in IEEE Transactions on Intelligent Transportation Systems journal (T-ITS 2021) ([Official Page](https://ieeexplore.ieee.org/abstract/document/9523568)).
 * Co-authored work titled *Fast Sequence-matching Enhanced orientation-invariant 3D Place Recognition*. Research has been accepted for publication in IEEE Transactions on Industrial Electronics journal (TIE 2021) ([Official Page](https://ieeexplore.ieee.org/abstract/document/9351776)).
 * Co-authored work titled *SeqSphereVLAD: Sequence Matching Enhanced Orientation-Invariant Place Recognition*. Research has been accepted for publication and presented at IROS 2020<!-- ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), --> <br>([Official Page](https://ieeexplore.ieee.org/abstract/document/9341727), [<i class="fa fa-youtube"></i> Video](https://www.youtube.com/watch?v=MB3CF2yy2EU)).
