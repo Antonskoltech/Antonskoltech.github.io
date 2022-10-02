@@ -14,7 +14,7 @@ subtitle: Robotics enthusiast
 <div class="lead lead-about">
 Hello! My name is Anton. I'm a researcher in autonomous robotics with a particular interest in computer vision (3D point cloud semantic segmentation) and deep learing for robust 3D perception. I am also broadly interested in SLAM.
 
-I am currently a Middle Software Developer (Localization and Mapping (SLAM) team) in Self-Driving Group at [OZON](https://corp.ozon.com/) Technology working on developing of algorithms that underlie SLAM.
+I am currently a Data Scientist (ML Matching Team) at [OZON](https://corp.ozon.com/) Technology. Prior to this role, I served as Middle Software Developer (Localization and Mapping (SLAM) team) in Self-Driving Group in the same company. I have been working on developing of algorithms that underlie SLAM.
 
 From August 2020 to June 2021, I was a doctaral student at [Autonomous Transportation Systems Lab](https://robotics.innopolis.university/en/labs/laboratoriya-avtonomnyh-transportnyh-sistem/) of [Innopolis University](https://innopolis.university/en/) with [*Professor Alexandr Klimchik*](https://scholar.google.fr/citations?user=KLpMBj0AAAAJ&hl=en). I received my <strong>Master of Science in Space and Engineering Systems</strong> at [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/) in June 2020 — including a six-month research visit at the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
 </div>
@@ -36,9 +36,9 @@ My Master's research work was based at [Biorobotics Lab](http://biorobotics.ri.c
 
 Recently...
 
-* Co-authored work titled *PSE-Match: A Viewpoint-free Place Recognition Method with Parallel Semantic Embedding*. Research has been accepted for publication in IEEE Transactions on Intelligent Transportation Systems journal (T-ITS 2021).
-* Co-authored work titled *Fast Sequence-matching Enhanced orientation-invariant 3D Place Recognition*. Research has been accepted for publication in IEEE Transactions on Industrial Electronics journal (TIE 2021).
-* Co-authored work titled *SeqSphereVLAD: Sequence Matching Enhanced Orientation-Invariant Place Recognition*. Research has been accepted for publication and presented at IROS 2020<!-- ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), --> <br>([Official Page](https://ras.papercept.net/proceedings/IROS20/0583.pdf), [<i class="fa fa-youtube"></i> Video](https://www.youtube.com/watch?v=MB3CF2yy2EU)).
+* Co-authored work titled *PSE-Match: A Viewpoint-free Place Recognition Method with Parallel Semantic Embedding*. Research has been accepted for publication in IEEE Transactions on Intelligent Transportation Systems journal (T-ITS 2021) ([Official Page](https://ieeexplore.ieee.org/abstract/document/9523568).
+* Co-authored work titled *Fast Sequence-matching Enhanced orientation-invariant 3D Place Recognition*. Research has been accepted for publication in IEEE Transactions on Industrial Electronics journal (TIE 2021) ([Official Page](https://ieeexplore.ieee.org/abstract/document/9351776).
+* Co-authored work titled *SeqSphereVLAD: Sequence Matching Enhanced Orientation-Invariant Place Recognition*. Research has been accepted for publication and presented at IROS 2020<!-- ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), --> <br>([Official Page](https://ieeexplore.ieee.org/abstract/document/9341727), [<i class="fa fa-youtube"></i> Video](https://www.youtube.com/watch?v=MB3CF2yy2EU)).
 * Co-authored work titled *LocoGear: Locomotion Analysis of Robotic Landing Gear for Multicopters*. Research has been published in J-MASS-journal ([Official Page](https://ieeexplore.ieee.org/document/9163320), [<i class="fa fa-youtube"></i> Video](https://www.youtube.com/watch?v=Ug_XYDpnKl0)).
 
 </div>
