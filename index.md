@@ -12,9 +12,9 @@ subtitle: Robotics enthusiast
 </div>
 <div class="unit golden-large">
 <div class="lead lead-about">
-Hello! My name is Anton. I'm a researcher in autonomous robotics with a particular interest in computer vision (3D point cloud semantic segmentation) and deep learning for robust 3D perception. I am also broadly interested in SLAM.
+Hello! My name is Anton. I'm a researcher in autonomous robotics with a particular interest in computer vision (3D point cloud semantic segmentation and detection) and deep learning for robust 3D perception. I am also broadly interested in SLAM and building reconstraction.
 
-I am currently a Data Scientist (ML Matching Team) at [OZON](https://corp.ozon.com/) Technology in Russia. Prior to this role, I served as Middle Software Developer (Localization and Mapping (SLAM) team) in Self-Driving Group in the same company. I have been working on developing of algorithms that underlie SLAM.
+I am currently working as a Lead Computer Vision Engineer for the AI Lab at Innopolis University in Russia and remotely as a Research Assistant at Oregon State University in the USA. Before my current role, I worked as a Data Scientist for the ML Matching Team at [OZON](https://corp.ozon.com/) Technology in Russia. Prior to that, I served as a Middle Software Developer for the Localization and Mapping (SLAM) team) within the Self-Driving Group at the same company. In that role, I focused on developing the algorithms that underlie SLAM.
 
 From August 2020 to June 2021, I was a doctaral student at [Autonomous Transportation Systems Lab](https://robotics.innopolis.university/en/labs/laboratoriya-avtonomnyh-transportnyh-sistem/) of [Innopolis University](https://innopolis.university/en/) with [*Professor Alexandr Klimchik*](https://scholar.google.fr/citations?user=KLpMBj0AAAAJ&hl=en). I received my <strong>Master of Science in Space and Engineering Systems</strong> at [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/) in June 2020 — including a six-month research visit at the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
 </div>
