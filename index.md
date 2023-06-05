@@ -35,6 +35,7 @@ My Master's research work was based at [Biorobotics Lab](http://biorobotics.ri.c
 * the web chair for the upcoming [Conference on Robot Learning (CoRL 2020)](https://www.robot-learning.org/).  -->
 
 Recently...
+* The submission for the two challenges in the "Computer Vision in the Built Environment" CVPR 2023 Workshop is now open until June 5th. For more details see [here](https://cv4aec.github.io/)
 * Co-organizer (Development Team) of 2nd [Workshop](https://cv4aec.github.io/) and Challenge on Computer vision in the build environment for the design, construction, and operation of buildings segmentations. Held in conjunction with the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022, New Orleans, Louisiana, USA, June 2022.
 * Co-authored work titled *PSE-Match: A Viewpoint-free Place Recognition Method with Parallel Semantic Embedding*. Research has been accepted for publication in IEEE Transactions on Intelligent Transportation Systems journal (T-ITS 2021) ([Official Page](https://ieeexplore.ieee.org/abstract/document/9523568)).
 * Co-authored work titled *Fast Sequence-matching Enhanced orientation-invariant 3D Place Recognition*. Research has been accepted for publication in IEEE Transactions on Industrial Electronics journal (TIE 2021) ([Official Page](https://ieeexplore.ieee.org/abstract/document/9351776)).
